@@ -1,0 +1,14 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http": "^0.0.1-security"
+  },
+  "type" : "module"
+}
